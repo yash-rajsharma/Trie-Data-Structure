@@ -108,6 +108,6 @@ class Trie {
 const tries = new Trie();
 
 // Insert words into the Trie
-
+// tries.insert("hello");
 // Search for a word in the Trie
-// console.log(tries.search("Search")); // false
+// console.log(tries.search("Hello")); // false
